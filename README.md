@@ -27,7 +27,7 @@ MarketLedger is officially available and verified on the Apple App Store for iPh
 You can install MarketLedger directly onto any Android device using the release APK:
 
 #### Option A: Direct APK Download
-1. Download the latest **`app-release.apk`** from the [GitHub Releases](https://github.com/tadianazeemi04/marketledger/releases) section (or from the project repository).
+1. Download the latest **`app-release.apk`** from the [GitHub Releases](https://github.com/tadianazeemi04/Market_Ledger/releases/tag/v1.0) section (or from the project repository).
 2. Transfer or download the APK file directly onto your Android phone or tablet.
 
 #### Option B: Build APK from Source
